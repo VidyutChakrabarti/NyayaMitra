@@ -1,0 +1,11 @@
+.fade-in {
+    opacity: 1;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+.slideshow-container {
+    padding-bottom: 10px;
+}

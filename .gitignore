@@ -1,0 +1,5 @@
+.env
+ungit
+backend/__pycache__/
+node_modules/
+
